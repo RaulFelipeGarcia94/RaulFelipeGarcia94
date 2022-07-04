@@ -37,8 +37,8 @@
 
 ## 🛰 &nbsp;Social Links
 
-<p align="left" style="background:blue"
-<a href="https://www.linkedin.com/in/raulfelipegarcia/" target="_blank">
+<p align="left" style="background:blue"/>
+<a href="https://www.instagram.com/raulfelipegarcia.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/raulfelipegarcia.dev/" target="_blank">
