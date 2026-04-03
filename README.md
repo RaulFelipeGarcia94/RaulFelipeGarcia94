@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulFelipeGarcia94/b4113650e4fc3ab19e438f4b821b100b/raw/ca7739b64f19c297568b16e1e63b5dcb36de85f4/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulFelipeGarcia94/b4113650e4fc3ab19e438f4b821b100b/raw/ca7739b64f19c297568b16e1e63b5dcb36de85f4/githubcard.svg"/> -->
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>, I'm Raul Garcia</h1>
 
